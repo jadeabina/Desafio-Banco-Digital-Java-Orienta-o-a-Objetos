@@ -10,3 +10,5 @@ Esse projeto tem como finalidade de um banco digital nomeado como PANDORA, com s
 
 - O cliente para gerenciar sua conta;
 
+-A class main está depositando 100,00 na conta corrente e transferindo para conta poupança;
+
